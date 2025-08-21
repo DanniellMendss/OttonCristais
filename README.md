@@ -1,73 +1,62 @@
-# Welcome to your Lovable project
+# 🌟 Otton Cristais – Catálogo Interativo de Cristais e Pedras Preciosas
 
-## Project info
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-**URL**: https://lovable.dev/projects/9dfc7c58-36ff-42e4-8d40-3b3b49da365b
+Um catálogo digital moderno e interativo para exibir cristais e pedras preciosas com alta qualidade visual, navegação intuitiva e integração para orçamentos. Desenvolvido com foco em experiência do usuário, design elegante e responsividade.
 
-## How can I edit this code?
+🌐 **Projeto em produção**: [https://ottoncristais.com](https://ottoncristais.com) *(exemplo - substitua se tiver)*
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 📖 Sobre o Projeto
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9dfc7c58-36ff-42e4-8d40-3b3b49da365b) and start prompting.
+**Otton Cristais** é uma aplicação web que apresenta um catálogo visualmente encantador de cristais e pedras naturais, com imagens em alta resolução, informações detalhadas e uma interface suave com gradiente e animações sutis.
 
-Changes made via Lovable will be committed automatically to this repo.
+O site permite:
+- Visualizar o catálogo em grade responsiva
+- Abrir imagens em modal com navegação (próxima/anterior)
+- Entrar em contato para orçamentos via e-mail ou WhatsApp
+- Acessar redes sociais diretamente pelo rodapé
 
-**Use your preferred IDE**
+Ideal para lojas, colecionadores ou terapeutas que desejam exibir seus produtos com elegância e profissionalismo.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+---
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+## ✨ Funcionalidades
 
-Follow these steps:
+✅ Catálogo interativo com carregamento animado  
+✅ Visualização em galeria com efeito de grade responsiva  
+✅ Modal de imagem com navegação entre itens  
+✅ Seção de contato com botões de e-mail e WhatsApp  
+✅ Rodapé completo com links e redes sociais  
+✅ Design moderno com gradientes, transparência e `backdrop-blur`  
+✅ Totalmente responsivo (móvel, tablet e desktop)  
+✅ Feito com boas práticas de acessibilidade e SEO básico
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 🛠️ Tecnologias Utilizadas
 
-# Step 3: Install the necessary dependencies.
-npm i
+- **React** + **Next.js** – Estrutura da aplicação
+- **TypeScript** – Tipagem segura e melhor manutenção
+- **Tailwind CSS** – Estilização rápida e responsiva
+- **Lucide React** – Ícones limpos e leves
+- **Vite ou Next** (ajuste conforme seu setup) – Empacotamento e build
+- **GitHub Pages / Vercel / Netlify** – Hospedagem (recomendado)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+---
 
-**Edit a file directly in GitHub**
+## 🚀 Como Rodar o Projeto
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+### Pré-requisitos
+- Node.js (versão 16 ou superior)
+- npm ou yarn
 
-**Use GitHub Codespaces**
+### Passos
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9dfc7c58-36ff-42e4-8d40-3b3b49da365b) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seuusuario/otton-cristais.git
