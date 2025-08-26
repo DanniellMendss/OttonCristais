@@ -130,7 +130,7 @@ const Index = () => {
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           {/* Email Button */}
           <a
-            href="mailto:contato@ottoncristais.com"
+            href="mailto:ottoncristais72@gmail.com"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-gradient-to-r from-purple-500 to-pink-500 text-white font-medium shadow-lg hover:shadow-purple-500/25 transition-all duration-300 transform hover:scale-105"
           >
             <Mail className="w-5 h-5" />
@@ -139,7 +139,7 @@ const Index = () => {
 
           {/* WhatsApp Button */}
           <a
-            href="https://wa.me/5531998845674?text=Oi!%20Tudo%20bem?%20Gostaria%20de%20saber%20mais%20sobre%20os%20valores.%20Pode%20me%20enviar%20um%20or%C3%A7amento%3F"
+            href="https://wa.me/5538999076052?text=Oi!%20Tudo%20bem?%20Gostaria%20de%20saber%20mais%20sobre%20os%20valores.%20Pode%20me%20enviar%20um%20or%C3%A7amento%3F"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-green-500 text-white font-medium shadow-lg hover:shadow-green-500/25 transition-all duration-300 transform hover:scale-105"
@@ -171,7 +171,7 @@ const Index = () => {
               </p>
               <div className="flex items-center gap-2 text-sm text-muted-foreground">
                 <Mail className="w-4 h-4" />
-                <span>ottoncristais@gmail.com.com</span>
+                <span>ottoncristais72@gmail.com</span>
               </div>
             </div>
 
@@ -229,7 +229,7 @@ const Index = () => {
 
                 {/* Instagram */}
                 <a
-                  href="https://www.instagram.com/otton.cristaisbr"
+                  href="https://www.instagram.com/ottoncrytais/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-pink-500 transition-colors duration-300"
