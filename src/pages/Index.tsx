@@ -210,7 +210,7 @@ const Index = () => {
               <div className="flex gap-5">
                 {/* WhatsApp */}
                 <a
-                  href="https://wa.me/5531998845674"
+                  href="https://wa.me/5538999076052"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-muted-foreground hover:text-green-500 transition-colors duration-300"
